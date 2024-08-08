@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
+import QrPage from './QrPage';
 export function HomeMain() {
   return (
     <div>
-      <p style={{ color: 'white' }}>It's Home Main</p>
+      <QrPage />
+      <p style={{}}>It's Home Main</p>
     </div>
   )
 }
