@@ -25,7 +25,7 @@ export function Login() {
                         <Link to="#">Forgot password?</Link>
                     </div>
 
-                    <Link to="/homeM"><button type='submit'>Login</button></Link>
+                    <Link to="/user"><button type='submit'>Login</button></Link>
 
                     <div className="register-link">
                         <p>Don't have an account? <Link to="/register" >Register</Link></p>

@@ -1,10 +1,10 @@
 import React from 'react';
 import QrPage from './QrPage';
-export function HomeMain() {
+export function User() {
   return (
     <div>
-      <QrPage />
-      <p style={{}}>It's Home Main</p>
+      {/* <QrPage /> */}
+      <p style={{}}>It's User Page</p>
     </div>
   )
 }
